@@ -34,7 +34,9 @@ Inside that college folder run:
 From the terminal in Visual Studio Code (or from command line - as long as you are in the folder), run following command:
 
 ''' git add filenane'''
+
 ''' git commit -m someupdate '''
+
 ''' git push origin main'''
 
 ## Updating code in Repo from Github ##
