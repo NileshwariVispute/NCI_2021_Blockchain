@@ -1,0 +1,22 @@
+{
+  "name": "nci",
+  "version": "1.0.0",
+  "description": "This is readme for this project.  It will include any useful links and commands to run",
+  "main": "contract.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NileshwariVispute/NCI_2021_Blockchain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NileshwariVispute/NCI_2021_Blockchain/issues"
+  },
+  "homepage": "https://github.com/NileshwariVispute/NCI_2021_Blockchain#readme",
+  "dependencies": {
+    "web3": "^1.6.0"
+  }
+}

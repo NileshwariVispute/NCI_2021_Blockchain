@@ -33,7 +33,7 @@ Inside that college folder run:
 
 From the terminal in Visual Studio Code (or from command line - as long as you are in the folder), run following command:
 
-''' $git add filenane'''
+''' $git add filename'''
 
 ''' $git commit -m someupdate '''
 
@@ -76,6 +76,14 @@ then run the following commands:
 To execute a javascript file using node.js
 
 ''' $node filename.js'''
+
+## Dependencies and NPM ##
+
+We want to use large chunks of code that others have written to interact with Ethereum, like the Web3 package.Do this we need to set up the Node Package Manager (NPM)
+
+From inside your folder, to create your own package.json
+
+'''$npm init'''
 
 
 
